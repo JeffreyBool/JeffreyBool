@@ -4,6 +4,6 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Shenzhen・🕹 Go developer
+🇨🇳 China beijing・🕹 Go developer
 
 https://www.zhanggaoyuan.com
