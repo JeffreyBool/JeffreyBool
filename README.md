@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-> Keep calm and coding.
+> Cruising in the code of life.
 
 🇨🇳 China beijing・🕹 Go developer
 
